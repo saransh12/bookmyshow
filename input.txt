@@ -1,0 +1,33 @@
+add-theatre PVR Delhi
+add-theatre PVR Mumbai
+add-theatre Inox Delhi
+add-theatre Inox Mumbai
+add-theatre Cinepolis Delhi
+list-theatres Delhi
+list-theatres Mumbai
+list-theatres Chennai
+add-hall 1 PVRDelhiAV1
+add-hall 1 PVRDelhiAV2
+add-hall 2 PVRMumbaiAV1
+add-hall 2 PVRMumbaiAV2
+add-hall 3 InoxDelhiAV1
+add-hall 3 InoxDelhiAV2
+add-hall 4 InoxMumbaiAV1
+add-hall 4 InoxMumbaiAV2
+add-hall 5 CinepolisDelhiAV1
+add-hall 5 CinepolisDelhiAV2
+add-seats 1 13 SILVER
+add-seats 2 10 SILVER
+add-seats 3 23 SILVER
+add-seats 4 20 SILVER
+add-seats 5 33 SILVER
+add-seats 6 30 SILVER
+add-seats 7 13 GOLD
+add-movie DDLJ Hindi Romance
+add-movie K3G Hindi Drama
+add-movie TSM Hindi Action
+add-movie KGF Hindi Action
+add-movie PK Hindi Comedy
+add-movie GOT Hindi Drama
+
+

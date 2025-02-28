@@ -1,0 +1,89 @@
+1740724878931:add-theatre PVR delhi
+1740724894078:add-theatre inox delhi
+1740724909866:add-theatre cineplex delhi
+1740724930789:list-theatres delhi
+1740724944111:add-theatre cineplex gurgaon
+1740724951662:add-theatre inox blr
+1740724959785:list-theatres gurgaon
+1740729856219:add-theatre PVR Delhi
+1740729862601:add-theatre PVR Mumbai
+1740729873774:list-theatres Delhi
+1740729886933:add-theatre Cinepolis Delhi
+1740729888570:list-theatres Delhi
+1740729895612:list-theatres Chennai
+1740730028689:add-hall 1 PVRDelhiAV1
+1740730032433:add-hall 1 PVRDelhiAV2
+1740730047789:add-hall 2 PVRMumAV1
+1740730050884:add-hall 2 PVRMumAV2
+1740739143991:add-theatre PVR Delhi
+1740739258767:add-theatre Cinepolis Delhi
+1740739263823:list-theatres Chennai
+1740739267042:list-theatres Delhi
+1740739337895:add-hall 1 PVRDelhiAV1
+1740739479999:add-seats 1 10 SILVER
+1740739499793:add-seats 1 10 GOLD
+1740739581254:add-movie DDLJ Hindi Rom
+1740739674713:add-movie K3G Hindi Drama
+1740739699264:add-hall 1 PVRDelhiAV2
+1740739756905:add-seats 2 2 GOLD
+1740739768653:add-seats 2 12 SILVER
+1740740007444:add-show 1 1 2021-02-01 12:00
+1740740023529:stacktrace
+1740740560621:add-show 1 1 2021-02-01 12:00
+1740740715952:add-movie K3G Hindi Drama
+1740740763082:add-theatre PVR Delhi
+1740740772159:add-hall 1 PVRDelhiAV1
+1740740786379:add-seats 1 10 GOLD
+1740740804722:add-seats 1 10 SILVER
+1740740950755:add-show 1 1 2021-02-01 12:00
+1740741622952:add-theatre PVR Delhi
+1740741632398:add-hall 1 PVRDelhiAV1
+1740741654613:add-seats 1 10 SILVER
+1740741665079:add-seats 1 10 GOLD
+1740741672844:add-movie K3G Hindi Drama
+1740741729033:add-show 1 1 2021-02-01 12:00
+1740741823139:list-shows 1 Delhi
+1740741968998:make-reservation 1 Saransh 8 9 15 18
+1740742192109:add-theatre PVR Delhi
+1740742195579:add-hall 1 PVRDelhiAV1
+1740742202788:add-seats 1 10 SILVER
+1740742208553:add-seats 1 10 GOLD
+1740742214141:add-movie K3G Hindi Drama
+1740742251619:add-show 1 1 2021-02-01 12:00
+1740742255809:list-shows 1 Delhi
+1740742274205:make-reservation 1 Saransh 8 9 15 18
+1740742403754:add-theatre PVR Delhi
+1740742406495:add-hall 1 PVRDelhiAV1
+1740742412999:add-seats 1 10 SILVER
+1740742418805:add-seats 1 10 GOLD
+1740742424138:add-movie K3G Hindi Drama
+1740742427272:add-show 1 1 2021-02-01 12:00
+1740742431728:list-shows 1 Delhi
+1740742437077:make-reservation 1 Saransh 8 9 15 18
+1740742874692:add-theatre PVR Delhi
+1740742878521:add-hall 1 PVRDelhiAV1
+1740742881916:add-seats 1 10 SILVER
+1740742884934:add-seats 1 10 GOLD
+1740742892841:add-movie K3G Hindi Drama
+1740742896657:add-show 1 1 2021-02-01 12:00
+1740742901422:list-shows 1 Delhi
+1740742924534:make-reservation 1 Saransh 8 9 15 18
+1740743052840:add-theatre PVR Delhi
+1740743055598:add-hall 1 PVRDelhiAV1
+1740743060755:add-seats 1 10 SILVER
+1740743064575:add-seats 1 10 GOLD
+1740743092685:add-movie K3G Hindi Drama
+1740743100014:add-show 1 1 2021-02-01 12:00
+1740743107954:make-reservation 1 Saransh 8 9 15 18
+1740743314572:O
+1740743335453:add-theatre PVR Delhi
+1740743338595:add-hall 1 PVRDelhiAV1
+1740743342014:add-seats 1 10 SILVER
+1740743344798:add-seats 1 10 GOLD
+1740743352644:add-movie K3G Hindi Drama
+1740743357775:add-show 1 1 2021-02-01 12:00
+1740743361950:make-reservation 1 Saransh 8 9 15 18
+1740743696622:list-bookings 1 2 3 4
+1740743842156:make-reservation 1 saransh 8 9 13 18
+1740743911949:list-bookings 8 9 13 18
+1740743937858:list-bookings sara 8 9 13 18
